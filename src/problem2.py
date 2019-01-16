@@ -276,6 +276,7 @@ class Triangle(object):
         triangle = Triangle(self.a, self.b, self.c)
         triangle.shrink_or_expand(2)
         return triangle
+        # I wrote a second test before you mentioned we didn't need to sorry for editing the test code
 
     def get_largest_area(self):
         """
